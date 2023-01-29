@@ -19,3 +19,4 @@ https://github.com/leksafox/FW_240123/tree/main/Final_Work
 * Заполняем новый массив элементами, длина которых <=3
 * Печатаем новый массив
 
+**КОД** [Program.cs](Final_Work/Program.cs)
